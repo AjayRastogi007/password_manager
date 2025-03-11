@@ -16,8 +16,6 @@ A **Flutter & Dart** app for securely storing and generating passwords with cust
 - **Firebase Authentication** – Secure user login & logout.
 - **Basic Algorithms** – Estimate password strength and cracking time.
 
-## 📸 Screenshots (Coming Soon)
-
 ## 🔧 Installation & Usage
 1. **Clone the repository**
    ```sh
