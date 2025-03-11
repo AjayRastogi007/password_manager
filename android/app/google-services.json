@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072160951909",
+    "project_id": "flutter-password-manager-25d34",
+    "storage_bucket": "flutter-password-manager-25d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072160951909:android:dc21a708c9c33a71f0008c",
+        "android_client_info": {
+          "package_name": "se.pixolity.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072160951909-2ks1tuljv7kc40q414i5c8qa4touo9h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcSfq4xwWcCy8w65816SQ4EcWTjx3iLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072160951909-2ks1tuljv7kc40q414i5c8qa4touo9h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
